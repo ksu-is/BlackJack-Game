@@ -1,5 +1,7 @@
 # BlackJack-Game
 
 Project Creator; Mason Dozier
+
 Spring 2019
-This is a BlackJack game created using python and Pygame. Users will be given two cards, if the cards value doesnt add up to 21, then the user will be promted to 'hit' and add anoter card to their hand, untill the cards equal 21 at which point they win or if they exceed 21 then they lose. Once they have completed the hand the user will be ased if he nts t play again, if they chose yes the program will loop, if not the program closes. 
+
+This is a BlackJack game created using python that works with the command line. Users play against a dealer. The user places a wager and then is given two cards and the dealer is given two cards. The object of the game is to get closer to 21 than the dealer. Once you have recieved your first two cards, you can chose to Hit or Stay based on their value. If you reach 21 or are closer to 21 than the dealer then you you win. After each round you may be promted to continue or to end the program. The program will continue to run until you run out of money or chose to end the program.
